@@ -1,0 +1,9 @@
+.Form-Button {
+  border: 1px solid black;
+  border-radius: 3px;
+}
+
+.Form-Button:hover {
+  cursor: pointer;
+  border: 2px solid black;
+}

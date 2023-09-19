@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`is a snapshot test for Todo 1`] = `
+<DocumentFragment>
+  <li>
+    default thing todo
+  </li>
+  <button>
+    Edit Todo
+  </button>
+  <button>
+    X
+  </button>
+</DocumentFragment>
+`;
+
+exports[`is a snapshot test when editing 1`] = `
+<DocumentFragment>
+  <form>
+    <input
+      type="text"
+      value="default thing todo"
+    />
+    <button>
+      Update Todo
+    </button>
+  </form>
+</DocumentFragment>
+`;

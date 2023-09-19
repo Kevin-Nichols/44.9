@@ -1,0 +1,15 @@
+.Box-Div {
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 2px;
+}
+
+.Box-Button {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.Box-Button:hover {
+  cursor: pointer;
+  border: 2px solid black;
+}

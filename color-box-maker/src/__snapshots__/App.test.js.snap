@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test of App 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <form>
+      <div>
+        <label
+          class="Form-Label"
+          for="height"
+        >
+          Height: 
+        </label>
+        <input
+          class="Form-Input"
+          id="height"
+          name="height"
+          type="text"
+          value=""
+        />
+      </div>
+      <div>
+        <label
+          class="Form-Label"
+          for="width"
+        >
+          Width: 
+        </label>
+        <input
+          class="Form-Input"
+          id="width"
+          name="width"
+          type="text"
+          value=""
+        />
+      </div>
+      <div>
+        <label
+          class="Form-Label"
+          for="backgroundColor"
+        >
+          Background Color: 
+        </label>
+        <input
+          class="Form-Input"
+          id="backgroundColor"
+          name="backgroundColor"
+          type="text"
+          value=""
+        />
+      </div>
+      <button
+        class="Form-Button"
+        id="formButton"
+      >
+        Add a box
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;
